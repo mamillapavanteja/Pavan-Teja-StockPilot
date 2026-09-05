@@ -8,11 +8,13 @@
         <version>3.2.0</version>
         <relativePath/>
     </parent>
-    <groupId>com.arya</groupId>
-    <artifactId>inventory-management</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>inventory-management</name>
-    <description>Inventory Management System</description>
+
+<groupId>com.arya</groupId>
+<artifactId>stockpilot</artifactId>
+<version>0.0.1-SNAPSHOT</version>
+<name>StockPilot</name>
+<description>Smart Inventory &amp; Sales Analytics</description>
+
     <properties>
         <java.version>21</java.version>
     </properties>
